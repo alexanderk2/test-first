@@ -1,2 +1,6 @@
 echo (:bum:)
+<<<<<<< HEAD
 skils kik
+=======
+проба тест
+
